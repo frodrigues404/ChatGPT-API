@@ -5,4 +5,5 @@ Necessário gerar a chave de autenticação da API do GPT pelo link https://plat
 Criar o arquivo .env com o valor da chave; EX: OPENAI_API_ENV=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Bibliotecas pip: pip install python-dotenv openai subprocess.run
+
 NPM: npm install dotenv openai
