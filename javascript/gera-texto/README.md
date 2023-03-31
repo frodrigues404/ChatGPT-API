@@ -1,0 +1,1 @@
+Gera um texto sobre determinado assunto.

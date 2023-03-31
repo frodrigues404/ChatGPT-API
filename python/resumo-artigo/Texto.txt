@@ -1,0 +1,15 @@
+Boas-vindas a mais um curso na Alura, Swagger: Documentando suas APIs. Eu sou o Vinícius Dias e vou guiar vocês nesse treinamento de Swagger. Começaremos entendendo o que é Swagger e como ele pode nos ajudar a desenvolver uma documentação de API, ou até a modelar uma API que não existe ainda. Para isso, não utilizaremos nada de código, nenhuma linguagem de programação.
+
+Eu precisaria escolher uma, e com certeza eu não escolheria a sua linguagem favorita, que não é a mesma de outro aluno, diferente de outro aluno. Então, isso poderia trazer problemas. Sendo assim, vou utilizar uma API falsa, uma API criada somente para esse treinamento através do "mockiapi.io".
+
+A partir dessa API a vamos criar uma documentação, para criar documentação iremos começar a conhecer as ferramentas dos Swagger, dentre elas o SwaggerEditor. Então, dentro do "editor.swagger.io", começaremos a entender como definir informações sobre API, licença, detalhes de contato, documentações externas, etc. E a partir disso, nós vamos definir os endpoints. Cada endpoint vai ter mais de um verbo, vai ter um verbo ou mais HTTP.
+
+[01:12 ] Dentro disso mapearemos as possíveis respostas, parâmetros, se existirem, o corpo de uma requisição, enfim, conseguiremos definir muitos detalhes sobre cada um desses endpoints. Além disso, organizaremos um pouco a configuração do API, separando pedaços de código em componentes.
+
+Então teremos esquemas separados, e falando em componentes, falaremos também um pouco sobre a autenticação. Como ter esquemas de segurança, com exemplo, definir como utilizar a autenticação HTTP, utilizando o JWT por exemplo. No final, iremos ver como ter isso tudo em uma infraestrutura própria, nossa.
+
+Porque inicialmente não vamos precisar instalar nada, tudo estará no servidor do Swagger, mas depois eu quero trazer isso para a minha máquina, até para poder disponibilizar, através de algum servidor, para possíveis clientes.
+
+Então teremos o Swagger - UI configurado na nossa máquina, exibindo toda aquela documentação, e uma documentação viva, onde eu posso realmente realizar requisições. Ou seja, além de ajudar a equipe de desenvolvimento, isso pode ser uma baita ferramenta para equipe de produto e para que pedir vendas, para mostrar como nossa API funciona e etc.
+
+Espero que você tire bastante proveito e se ficar com alguma dúvida, não existe, você pode abrir uma questão lá no fórum. Eu tento responder pessoalmente sempre que possível, mas quando eu não consigo, temos uma vasta comunidade de alunos, moderadores e instrutores que, com certeza, alguém vai poder te ajudar.
